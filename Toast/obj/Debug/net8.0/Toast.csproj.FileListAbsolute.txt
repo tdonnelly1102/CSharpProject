@@ -1,0 +1,15 @@
+/workspaces/CSharpProject/Toast/bin/Debug/net8.0/Toast
+/workspaces/CSharpProject/Toast/bin/Debug/net8.0/Toast.deps.json
+/workspaces/CSharpProject/Toast/bin/Debug/net8.0/Toast.runtimeconfig.json
+/workspaces/CSharpProject/Toast/bin/Debug/net8.0/Toast.dll
+/workspaces/CSharpProject/Toast/bin/Debug/net8.0/Toast.pdb
+/workspaces/CSharpProject/Toast/obj/Debug/net8.0/Toast.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharpProject/Toast/obj/Debug/net8.0/Toast.AssemblyInfoInputs.cache
+/workspaces/CSharpProject/Toast/obj/Debug/net8.0/Toast.AssemblyInfo.cs
+/workspaces/CSharpProject/Toast/obj/Debug/net8.0/Toast.csproj.CoreCompileInputs.cache
+/workspaces/CSharpProject/Toast/obj/Debug/net8.0/Toast.sourcelink.json
+/workspaces/CSharpProject/Toast/obj/Debug/net8.0/Toast.dll
+/workspaces/CSharpProject/Toast/obj/Debug/net8.0/refint/Toast.dll
+/workspaces/CSharpProject/Toast/obj/Debug/net8.0/Toast.pdb
+/workspaces/CSharpProject/Toast/obj/Debug/net8.0/Toast.genruntimeconfig.cache
+/workspaces/CSharpProject/Toast/obj/Debug/net8.0/ref/Toast.dll
